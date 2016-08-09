@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cor_primaria_app">#1659BF</color>
+    <color name="cor_azul_escuro_secundario">#0F3698</color>
+    <color name="cor_azul_claro_secundario">#4889ea</color>
+
+    <color name="cor_letras_brancas">#ffffff</color>
+    <color name="cor_letras_cinzas">#666666</color>
+
+    <color name="cor_cinza_fraco">#BEBEBE</color>
+
+</resources>
